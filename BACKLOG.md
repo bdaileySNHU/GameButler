@@ -44,7 +44,7 @@
 
 ## Epic 5: Deployment
 **Goal:** Deploy to a live environment.
-- [ ] **Story 5.1: Dockerization**
+- [x] **Story 5.1: Dockerization**
   - Create Dockerfile for Backend and Frontend.
 - [ ] **Story 5.2: Cloud Deployment**
   - Deploy to a service (e.g., Render, Railway, or VPS).
