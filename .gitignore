@@ -11,6 +11,7 @@ env/
 data/*.csv
 !data/sample_library.csv
 !data/test_upload.csv
+!data/real_library_sample.csv
 temp_*.csv
 
 # Frontend
