@@ -1,0 +1,11 @@
+AppID,Name,Playtime_Forever,Tags,Genre,Average_Playtime
+10,Counter-Strike,3500,"Action;FPS;Classic","Action",600
+20,Team Fortress Classic,120,"Action;Class-Based","Action",600
+70,Half-Life,480,"FPS;Sci-Fi;Story Rich","Action",900
+220,Half-Life 2,600,"FPS;Sci-Fi;Story Rich","Action",900
+400,Portal,180,"Puzzle;Sci-Fi;Comedy","Puzzle",240
+620,Portal 2,540,"Puzzle;Co-op;Sci-Fi","Puzzle",600
+105600,Terraria,2000,"Sandbox;Survival;2D","Adventure",3000
+108600,Project Zomboid,0,"Survival;Zombies;Open World","Simulation",6000
+264710,Subnautica,0,"Survival;Open World;Underwater","Adventure",1800
+413150,Stardew Valley,0,"Farming Sim;Relaxing;Pixel Graphics","RPG",3000

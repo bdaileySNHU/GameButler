@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Data (Don't commit large datasets or temp files)
+data/*.csv
+!data/sample_library.csv
+!data/test_upload.csv
+temp_*.csv
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.DS_Store
+frontend/frontend.log
+frontend/vite.log
+
+# Logs
+*.log
+server.log
+
+# OS
+.DS_Store
